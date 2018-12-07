@@ -3,7 +3,7 @@ Aquí encontrarás formularios de Acceso y Oposición al Tratamiento de Datos de
 
 Este formulario ha sido creado por la Plataforma en Defensa de la Libertad de Información (PDLI), la Asociación de Internautas (AI) y un grupo de expertos juristas. Con la esperanza de que ayude a su cumplimentación y envío, creo este repositorio con un formulario para cada partido, de modo que quien quiera impedir que los partidos puedan crear bases de datos con sus opiniones políticas solo tenga introducir sus datos personales una única vez. 
 
-Cumplimenta -> Imprime -> Firma -> Escanea y envía por correo electrónico / Mételo en un sobre y envía por correo postal
+Descárgalos todos pulsando el botón verde arriba a la derecha -> Cumplimenta tus datos una vez y copia y pega al resto de formularios -> Imprime -> Firma -> Escanea y envía por correo electrónico / Mételo en un sobre y envía por correo postal
 
 Más información, tomado de la propia [Plataforma en defensa de la libertad de información](http://libertadinformacion.cc/la-pdli-asociacion-internautas-y-juristas-especializados-lanzan-un-formulario-para-impedir-que-los-partidos-puedan-crear-bases-de-datos-con-las-opiniones-politicas-de-los-ciudadanos/): 
 
