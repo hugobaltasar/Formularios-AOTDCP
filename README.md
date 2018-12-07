@@ -5,7 +5,10 @@ Este formulario ha sido creado por la Plataforma en Defensa de la Libertad de In
 
 Cumplimenta -> Imprime -> Firma -> Escanea y envía por correo electrónico / Mételo en un sobre y envía por correo postal
 
-Más información, tomado de la propia [Plataforma en defensa de la libertad de información](http://libertadinformacion.cc/la-pdli-asociacion-internautas-y-juristas-especializados-lanzan-un-formulario-para-impedir-que-los-partidos-puedan-crear-bases-de-datos-con-las-opiniones-politicas-de-los-ciudadanos/):
+Más información, tomado de la propia [Plataforma en defensa de la libertad de información](http://libertadinformacion.cc/la-pdli-asociacion-internautas-y-juristas-especializados-lanzan-un-formulario-para-impedir-que-los-partidos-puedan-crear-bases-de-datos-con-las-opiniones-politicas-de-los-ciudadanos/): 
+
+&nbsp;
+&nbsp;
 
 *El 6 de diciembre de 2018 el Boletín Oficial del Estado publicó la nueva [Ley Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales (LOPDGDD)](https://boe.es/boe/dias/2018/12/06/pdfs/BOE-A-2018-16673.pdf), una norma que legaliza el envío de propaganda política a partir de una recopilación de datos personales de los ciudadanos.*
 
